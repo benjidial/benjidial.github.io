@@ -1,0 +1,12 @@
+/**
+ * @name cmu typewriter text
+ * @author Benji Dial
+ */
+
+@import url(https://benjidial.github.io/better-discord/cmu-typewriter-text/cmu-typewriter-text.css);
+
+:root {
+  --font-primary: "CMU Typewriter Text";
+  --font-display: "CMU Typewriter Text";
+  --font-headline: "CMU Typewriter Text";
+}
