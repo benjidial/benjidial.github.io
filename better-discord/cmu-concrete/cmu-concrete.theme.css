@@ -1,0 +1,12 @@
+/**
+ * @name cmu concrete
+ * @author Benji Dial
+ */
+
+@import url(https://benjidial.github.io/better-discord/cmu-concrete/cmu-concrete.css);
+
+:root {
+  --font-primary: "CMU Concrete";
+  --font-display: "CMU Concrete";
+  --font-headline: "CMU Concrete";
+}
