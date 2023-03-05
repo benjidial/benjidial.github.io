@@ -1,0 +1,12 @@
+/**
+ * @name cmu serif
+ * @author Benji Dial
+ */
+
+@import url(https://benjidial.github.io/better-discord/cmu-serif/cmu-serif.css);
+
+:root {
+  --font-primary: "CMU Serif";
+  --font-display: "CMU Serif";
+  --font-headline: "CMU Serif";
+}
